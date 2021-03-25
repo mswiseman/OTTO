@@ -188,7 +188,7 @@ OTTO’s mechanical design calls for two linear actuators to move the gantry in 
 
 The below schematic is a picture version of what is described in the tables above. This is a high-resolution image, and you may have to zoom in <i class="fas fa-search-plus"></i> to see the labels. You can also right click and save the image to your desktop.
 
-![Otto, the open-source automatic liquid handler](../assets/img/electrical/Stepper-Motor-wiring.jpg)
+![Otto, the open-source automatic liquid handler](https://github.com/DrD-Flo/OTTO/blob/master/assets/img/electrical/Buttons-and-switches-OTTO.jpg)
 
 ### <i class="fas fa-light-switch-off"></i> Buttons and Sensors
 
