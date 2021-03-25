@@ -188,7 +188,7 @@ OTTO’s mechanical design calls for two linear actuators to move the gantry in 
 
 The below schematic is a picture version of what is described in the tables above. This is a high-resolution image, and you may have to zoom in <i class="fas fa-search-plus"></i> to see the labels. You can also right click and save the image to your desktop.
 
-![Otto, the open-source automatic liquid handler](https://github.com/DrD-Flo/OTTO/blob/master/assets/img/electrical/Buttons-and-switches-OTTO.jpg)
+![Otto, the open-source automatic liquid handler](https://github.com/DrD-Flo/OTTO/blob/master/assets/img/electrical/Stepper-Motor-wiring.jpg)
 
 ### <i class="fas fa-light-switch-off"></i> Buttons and Sensors
 
@@ -212,4 +212,4 @@ Another optional feature of OTTO are two push buttons that can be used to pause 
 
 Finally, the last switch is involved with the AC mains coming into the 24V DC power supply. This “emergency stop” switch can disconnect the DC power supply from AC power. This is a very quick way to stop OTTO if there is a problem. For information on how to wire an emergency stop and "on" switch, check out [this video](https://www.youtube.com/watch?v=0RRFBnKRnFM). Once you have wired your emergency stop, you can then connect it to the 24V power supply ([basic rundown here](https://www.youtube.com/watch?v=Ls-6BeLHbA0). 
 
-![Otto, the open-source automatic liquid handler](../assets/img/electrical/Buttons-and-switches-OTTO.jpg)
+![Otto, the open-source automatic liquid handler](https://github.com/DrD-Flo/OTTO/blob/master/assets/img/electrical/Buttons-and-switches-OTTO.jpg)
