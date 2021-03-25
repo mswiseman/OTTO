@@ -5,7 +5,7 @@ title: Electrical Setup
 # <i class="fad fa-outlet"></i> Electrical Setup
 ---
 ### <i class="fas fa-play-circle"></i> Getting Started 
-If you have little experience with wiring with electronics, then it is strongly recommended to read up on the proper precautions that need to be taken [here](https://electrical-engineering-portal.com/21-safety-rules-for-working-with-electrical-equipment). Along a similar vein, if you have never soldered, then a breadboard can be used to wire the whole project. Breadboard connections are less durable than a solder joint, but jumper cables allow you to avoid soldering.
+If you have little experience with wiring with electronics, then it is strongly recommended to read up on the proper precautions that need to be taken [here](https://electrical-engineering-portal.com/21-safety-rules-for-working-with-electrical-equipment). Along a similar vein, if you have never soldered, then a breadboard can be used to wire the whole project. Breadboard connections are less durable than a solder joint, but jumper cables allow you to avoid soldering. Basic overviews of breadboard wiring can be found [here](), [here](), and [here](). 
 
 Building an automatic liquid handler follows many of the principles used by DIYers to build 3D printers and CNC routers, which are found in many households. It is recommended to watch videos such as this [one](https://youtu.be/qub5chyIQ0s) to learn the operating principles behind stepper motors, stepper drivers, limit switches, etc. 
 
@@ -210,6 +210,6 @@ Optionally, OTTO can also use two through beam laser that check the concentricit
 
 Another optional feature of OTTO are two push buttons that can be used to pause or resume the OTTO’s motion and clearing errors. 
 
-Finally, the last switch is involved with the AC mains coming into the 24V DC power supply. This “emergency stop” switch can disconnect the DC power supply from AC power. This is a very quick way to stop OTTO if there is a problem.
+Finally, the last switch is involved with the AC mains coming into the 24V DC power supply. This “emergency stop” switch can disconnect the DC power supply from AC power. This is a very quick way to stop OTTO if there is a problem. For information on how to wire an emergency stop and on switch, check out [this video](https://www.youtube.com/watch?v=0RRFBnKRnFM). Once you have wired your emergency stop, you can then connect it to the power supply ([basic rundown here](https://www.youtube.com/watch?v=Ls-6BeLHbA0). 
 
 ![Otto, the open-source automatic liquid handler](../assets/img/electrical/Buttons-and-switches-OTTO.jpg)
