@@ -210,6 +210,6 @@ Optionally, OTTO can also use two through beam laser that check the concentricit
 
 Another optional feature of OTTO are two push buttons that can be used to pause or resume the OTTO’s motion and clearing errors. 
 
-Finally, the last switch is involved with the AC mains coming into the 24V DC power supply. This “emergency stop” switch can disconnect the DC power supply from AC power. This is a very quick way to stop OTTO if there is a problem. For information on how to wire an emergency stop and on switch, check out [this video](https://www.youtube.com/watch?v=0RRFBnKRnFM). Once you have wired your emergency stop, you can then connect it to the power supply ([basic rundown here](https://www.youtube.com/watch?v=Ls-6BeLHbA0). 
+Finally, the last switch is involved with the AC mains coming into the 24V DC power supply. This “emergency stop” switch can disconnect the DC power supply from AC power. This is a very quick way to stop OTTO if there is a problem. For information on how to wire an emergency stop and "on" switch, check out [this video](https://www.youtube.com/watch?v=0RRFBnKRnFM). Once you have wired your emergency stop, you can then connect it to the 24V power supply ([basic rundown here](https://www.youtube.com/watch?v=Ls-6BeLHbA0). 
 
 ![Otto, the open-source automatic liquid handler](../assets/img/electrical/Buttons-and-switches-OTTO.jpg)
