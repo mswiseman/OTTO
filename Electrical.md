@@ -15,7 +15,7 @@ Roughly there are three main parts of OTTO's electrical system:
 - The stepper drivers and motors
 - Sensors and buttons
 
-Check out the bill of materials for part numbers, quantities, and retailers <i class="far fa-scroll"></i> [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/OTTO_BOM.xlsx)
+Check out the bill of materials for part numbers, quantities, and retailers <i class="far fa-scroll"></i> [Bill of Materials](https://github.com/DrD-Flo/OTTO/blob/master/assets/download/OTTO-BOM-7-1-20.xlsx)
 
 ### <i class="fas fa-microchip"></i> Microcontroller
 
