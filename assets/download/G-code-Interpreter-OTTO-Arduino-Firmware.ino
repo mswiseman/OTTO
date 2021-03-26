@@ -167,31 +167,31 @@ void setup() {
     
     // X-axis Driver
     driverX.begin();             // Initiate pins and registeries
-    driverX.rms_current(1000);    // Set stepper current to 600mA. 
+    driverX.rms_current(1000);    // Set stepper current to 1000mA. 
     driverX.microsteps(16);
     delay(100);
 
     // Y-axis Driver 1
     driverY1.begin();             // Initiate pins and registeries
-    driverY1.rms_current(1000);    // Set stepper current to 600mA. 
+    driverY1.rms_current(1000);    // Set stepper current to 1000mA. 
     driverY1.microsteps(16);
     delay(100);
 
     // Y-axis Driver 2
     driverY2.begin();             // Initiate pins and registeries
-    driverY2.rms_current(1000);    // Set stepper current to 600mA. 
+    driverY2.rms_current(1000);    // Set stepper current to 1000mA. 
     driverY2.microsteps(16);
     delay(100);
 
     // Z-axis Driver 
     driverZ.begin();             // Initiate pins and registeries
-    driverZ.rms_current(400);    // Set stepper current to 600mA. 
+    driverZ.rms_current(400);    // Set stepper current to 400mA. 
     driverZ.microsteps(16);
     delay(100);
 
     // P-axis Driver 
     driverP.begin();             // Initiate pins and registeries
-    driverP.rms_current(400);    // Set stepper current to 600mA. 
+    driverP.rms_current(400);    // Set stepper current to 400mA. 
     driverP.microsteps(4);
     delay(100);
 
@@ -625,7 +625,3 @@ void coordinateMove(){
       Serial.println("<ok>");      
   }
 }
-
-
-  
- 
